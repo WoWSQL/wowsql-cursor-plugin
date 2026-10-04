@@ -1,0 +1,21 @@
+{
+  "name": "wowsql",
+  "displayName": "WoWSQL",
+  "version": "1.0.0",
+  "description": "Use managed Postgres projects, tables, and SQL from Cursor, signed in with WoWSQL.",
+  "author": {
+    "name": "WoWSQL Technologies",
+    "email": "hello@wowsql.com"
+  },
+  "homepage": "https://wowsql.com",
+  "repository": "https://github.com/WoWSQL/wowsql-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "postgres",
+    "sql",
+    "baas",
+    "mcp",
+    "wowsql"
+  ],
+  "logo": "assets/icon.png"
+}

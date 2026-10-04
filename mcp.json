@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "wowsql": {
+      "url": "https://mcp.wowsql.com/mcp"
+    }
+  }
+}
